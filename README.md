@@ -16,4 +16,4 @@ Aplicação web do tipo CRUD (Create, Read, Update, Delete) voltada para o conte
 
 1. Clona o repositório:
 ```bash
-git clone https://github.com/MatheussssH/ProjetoAngular.git
+git clone https://github.com/MatheusHenrick04/ProjetoAngular.git

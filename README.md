@@ -16,4 +16,4 @@ Aplicação web do tipo CRUD (Create, Read, Update, Delete) voltada para o conte
 
 1. Clona o repositório:
    ```bash
-   git clone <URL_DO_REPOSITORIO>
+    git clone https://github.com/MatheussssH/fintech2.git

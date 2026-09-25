@@ -15,5 +15,5 @@ Aplicação web do tipo CRUD (Create, Read, Update, Delete) voltada para o conte
 ## ⚙️ Como Executar
 
 1. Clona o repositório:
-   ```bash
-    git clone https://github.com/MatheussssH/fintech2.git
+```bash
+git clone https://github.com/MatheussssH/ProjetoAngular.git
